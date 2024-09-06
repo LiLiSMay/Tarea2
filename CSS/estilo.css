@@ -1,0 +1,303 @@
+.body{
+    background-color: aquamarine;
+}
+.nombre{
+    font-family: fantasy;
+    font-size: 20px;
+    color: #1bab6f;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+}
+
+.circulo1{
+    background-color: rgb(228, 226, 112);
+    width: 25px;
+    height: 25px;
+    border-radius: 50px;
+    position: relative;
+    top: 20px;
+    left: 594px;
+}
+
+.antena{
+    background-color: black;
+    width: 2px;
+    height: 60px;
+    position: relative;
+    top: 20px;
+    left: 605px;
+}
+.circulo2{
+    background-color: rgb(228, 226, 112);
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    border-color: rgb(192, 190, 93);
+    border-style: solid;
+    position: relative;
+    left: 489px;
+    top: 50px;
+}
+.circulo3{
+    background-color: rgb(228, 226, 112);
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    position: relative;
+    border-color: rgb(192, 190, 93);
+    border-style: solid;
+    position: relative;
+    left: 685px;
+    top: 6px;
+
+}
+
+.C1{
+    background-color: rgb(0, 81, 255);
+    width:150px ;
+    height:150px ;
+    border-radius: 18px;
+    border-color: rgb(3, 68, 209);
+    border-style: solid;
+    position: absolute;
+    left: 540px;
+    top: 105px;
+}
+.ojo1{
+    background-color: rgb(255, 255, 255);
+    width:40px ;
+    height:40px ;
+    border-radius: 10px;
+    position: absolute;
+    left: 20px;
+    top: 35px;
+}
+.ojo2{
+    background-color: rgb(255, 255, 255);
+    width:40px ;
+    height:40px ;
+    border-radius: 8px;
+    position: absolute;
+    right: 20px;
+    top: 35px;
+}
+.ojoC1{
+    background-color: rgb(0, 0, 0);
+    width:20px ;
+    height:20px ;
+    border-radius: 8px;
+    
+    position: absolute;
+    right: 10px;
+    left: 10px;
+    top: 10px;
+    bottom: 10px;
+}
+.ojoC2{
+    background-color: rgb(0, 0, 0);
+    width:20px ;
+    height:20px ;
+    border-radius: 8px;
+    position: absolute;
+    right: 10px;
+    left: 10px;
+    top: 10px;
+    bottom: 10px;
+}
+.nariz{
+    background-color: rgb(228, 226, 112);
+    width: 25px;
+    height: 25px;
+    border-radius: 50px;
+    position: absolute;
+    top: 75px;
+    left: 60px;
+}
+.boca{
+    background-color: rgb(0, 0, 0);
+    width: 80px;
+    height: 10px;
+    position: absolute;
+    bottom: 20px;
+    left: 35px;
+}
+
+.cuello{
+    background-color: rgb(0, 81, 255);
+    width:50px ;
+    height:25px ;
+    border-color: rgb(3, 68, 209);
+    border-style: solid;
+    position: absolute;
+    left: 590px;
+    top: 257px;
+}
+
+
+.C2{
+    background-color: rgb(0, 81, 255);
+    width:150px ;
+    height:150px ;
+    border-radius: 18px;
+    border-color: rgb(3, 68, 209);
+    border-style: solid;
+    position: absolute;
+    left: 540px;
+    top: 285px;
+}
+.RH1{
+    background-color: rgb(228, 226, 112);
+    width: 80px;
+    height: 30px;
+    border-radius: 18px;
+    position: absolute;
+    left: 35px;
+    top: 40px;
+}
+.RH2{
+    background-color: rgb(228, 226, 112);
+    width: 80px;
+    height: 30px;
+    border-radius: 18px;
+    position: absolute;
+    left: 35px;
+    bottom: 40px;
+}
+.manoI{
+    background-color:rgb(228, 226, 112);
+    width: 80px;
+    height: 4px;
+    position: relative;
+    left: 452px;
+    top: 150px;
+}
+.dedo1{
+    background-color:rgb(194, 192, 73);
+    width: 4px;
+    height: 30px;
+    position: relative;
+    bottom: 12px;
+}
+.dedo2{
+    background-color:rgb(194, 192, 73);
+    width: 4px;
+    height: 20px;
+    position: relative;
+    transform: rotate(45deg);
+    right: 6px;
+    bottom: 16px;
+
+}
+.dedo3{
+    background-color:rgb(194, 192, 73);
+    width: 4px;
+    height: 20px;
+    position: relative;
+    transform: rotate(-45deg);
+    right: 8px;
+    bottom: 78px;
+}
+.dedo{
+    background-color:rgb(194, 192, 73);
+    width: 4px;
+    height: 30px;
+    position: relative;
+    bottom: 82px;
+    left: 76px;
+}
+.manoD{
+    background-color:rgb(228, 226, 112);
+    width: 80px;
+    height: 4px;
+    position: relative;
+    left: 686px;
+    top: 146px;
+}
+
+.dedo1D{
+    background-color:rgb(194, 192, 73);
+    width: 4px;
+    height: 30px;
+    position: relative;
+    bottom: 12px;
+    left: 80px;
+}
+.dedo2D{
+    background-color:rgb(194, 192, 73);
+    width: 4px;
+    height: 20px;
+    position: relative;
+    transform: rotate(145deg);
+    left: 85px;
+    bottom: 15px;
+
+}
+.dedo3D{
+    background-color:rgb(194, 192, 73);
+    width: 4px;
+    height: 20px;
+    position: relative;
+    transform: rotate(-145deg);
+    left: 85px;
+    bottom: 79px;
+
+}
+.dedoD{
+    background-color:rgb(194, 192, 73);
+    width: 4px;
+    height: 30px;
+    position: relative;
+    bottom: 82px;
+    left: 0px;
+}
+
+.cuello2{
+    background-color: rgb(0, 81, 255);
+    width:95px ;
+    height:12px ;
+    border-color: rgb(3, 68, 209);
+    border-style: solid;
+    position: absolute;
+    left: 568px;
+    top: 437px;
+}
+
+.C3{
+    background-color: #0051ff;
+    width:180px ;
+    height:75px ;
+    border-radius: 18px;
+    border-color: rgb(3, 68, 209);
+    border-style: solid;
+    position: absolute;
+    left: 524px;
+    top: 450px;
+}
+.RV1{
+    background-color: rgb(228, 226, 112);
+    width: 30px;
+    height: 50px;
+    border-radius: 18px;
+    position: absolute;
+    top: 12px;
+    left: 30px;
+}
+.RV2{
+    background-color: rgb(228, 226, 112);
+    width: 30px;
+    height: 50px;
+    border-radius: 18px;
+    position: absolute;
+    top: 12px;
+    left: 75px;
+}
+.RV3{
+    background-color: rgb(228, 226, 112);
+    width: 30px;
+    height: 50px;
+    border-radius: 18px;
+    position: absolute;
+    top: 12px;
+    right: 30px;
+}
